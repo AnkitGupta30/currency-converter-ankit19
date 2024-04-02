@@ -34,5 +34,4 @@ This package uses convert currency.
 
 Apache License 2.0
 
-## Keywords
-npm node.js
+
